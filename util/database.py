@@ -1,6 +1,6 @@
 import pymysql
 
-db = pymysql.connect(host="120.79.94.218", user="football", password="w20010904", database="football")
+db = pymysql.connect(host="", user="football", password="", database="football")
 cursor = db.cursor()
 SQLex = 'SQL/'
 
